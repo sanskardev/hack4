@@ -1,0 +1,1 @@
+print("Koi padhega ye?")
